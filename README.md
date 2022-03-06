@@ -1,1 +1,1 @@
-[![Elioby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elioby)](https://github.com/anuraghazra/github-readme-stats)
+[![Elioby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elioby&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
